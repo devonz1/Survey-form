@@ -1,3 +1,8 @@
 body{
-    
+    background-image:url("C:/Users/devon/Downloads/Untitled design.jpg");
+    /**when you add image file from computer make sure you change each of the 
+    paths face  this >>>> / direction so image shows up on webpage.*/
+     
+    background-repeat: no-repeat;
+    background-size: cover;
 }
